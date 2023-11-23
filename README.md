@@ -1,0 +1,1 @@
+# FoodDiary-Edamam-API
